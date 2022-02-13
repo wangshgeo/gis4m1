@@ -11,3 +11,6 @@ see https://qiita.com/c60evaporator/items/aef6cc1581d2c4676504
 3.Setting Up a New M1 MacBook for Data Science
 see https://towardsdatascience.com/new-m1-who-dis-677e085baffd
 
+4. install qgis on Apple M1
+see https://malagis.com/gis-tutorial-install-qgis3-on-m1-mac.html
+
