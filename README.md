@@ -14,3 +14,7 @@ see https://towardsdatascience.com/new-m1-who-dis-677e085baffd
 4. install qgis on Apple M1
 see https://malagis.com/gis-tutorial-install-qgis3-on-m1-mac.html
 
+
+Dataset
+
+https://ai4edataeuwest.blob.core.windows.net/io-lulc/io-lulc-model-001-v01-composite-v03-supercell-v02-clip-v01.zip
